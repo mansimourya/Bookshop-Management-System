@@ -1,0 +1,17 @@
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\bin\Debug\Bookshop.exe
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\bin\Debug\Bookshop.exe.config
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.csproj.AssemblyReference.cache
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Admin.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Books.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Dashboard.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Login.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Logout.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Purchase.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Splash.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Properties.Resources.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.Users.resources
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.csproj.GenerateResource.cache
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.exe
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\obj\Debug\Bookshop.pdb
+C:\Users\Mansi\Desktop\Bookshop project\Bookshop\bin\Debug\Bookshop.pdb
